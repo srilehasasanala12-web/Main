@@ -5,3 +5,9 @@ Git is a version control system that helps you:
 Track changes in your code
 Collaborate with others
 Restore previous versions if something breaks
+
+2. Install Git
+
+Download and install from the official site:
+
+Git official website
